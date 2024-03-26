@@ -3,7 +3,7 @@ margin:o;
 padding:o;
 }
 bady{
-background:#cccccc;
+:#cccccc;
 }
 p{
  tent-align:center
@@ -15,9 +15,31 @@ text - align:center;
 }
 em strong {
  color:pink;
- #nanner{
+ #banner{
   width:100%;
  }
+.principalbackground
+ background:#cccccc;
+ podding:30px;
 h1{
 }
 text-align:center;
+.itens{
+ font-style:italic;
+}
+ .beneficios {
+  background:#FFFFFF;
+  PODDING:20PX;
+ }
+ H2{
+  TEXT-ALIGN:CENTER;
+ }
+ il{
+   display:inlane-block;
+  vertical-align: top;
+  width:20%;
+  margin-right:15%;
+ }
+ .imagem-beneficios{
+  with:50%
+ }
