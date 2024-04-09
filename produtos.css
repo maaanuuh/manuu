@@ -1,4 +1,4 @@
-header{
+erheader{
   background:#BBBBBB;
 }
 nav li{
@@ -11,4 +11,13 @@ nav a {
   font-weight:bold;
   font-size: 22px;
   text-decoration:none;
+}
+header{
+  background=#BBBBBB;
+  padding:20px; o;
+}
+.caixa{
+  position:relative;
+  width:940px;
+  margin:0 auto;
 }
