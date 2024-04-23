@@ -71,3 +71,13 @@ border-color:pink;
     font-weight: bold;
     margin-top: 10px;
 }
+footer {
+ texte-align: center;
+ background: url("bg.jpg")
+ padding: 40px 0;
+}
+.copyright {
+ color:#FFFFFF;
+ front-size: 13px;
+ margin: 20px O O;
+}
