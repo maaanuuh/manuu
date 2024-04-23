@@ -3,10 +3,10 @@ margin:o;
 padding:o;
 }
 bady{
-:#cccccc;
+   backgroud: #CCCCCC;
 }
 p{
- tent-align:center
+ text-align:center
  font-size:2opx
 }
 #missão{
@@ -20,7 +20,7 @@ em strong {
  }
 .principalbackground
  background:#cccccc;
- podding:30px;
+ padding: 30px;
 h1{
 }
 text-align:center;
@@ -29,7 +29,7 @@ text-align:center;
 }
  .beneficios {
   background:#FFFFFF;
-  PODDING:20PX;
+  padding: 20PX;
  }
  H2{
   TEXT-ALIGN:CENTER;
@@ -41,7 +41,7 @@ text-align:center;
   margin-right:15%;
  }
  .imagem-beneficios{
-  with:50%
+  with: 50%
  }
 h1{
  text-align:center;
