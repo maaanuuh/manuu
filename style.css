@@ -203,6 +203,10 @@ margin:0 auto
 .itens:first-child {
 	font-weight: bold;
 }
+.beneficios{
+	padding: 3em 0;
+	background:#888888;
+}
 .mapa {
     padding: 3em 0;
 }
