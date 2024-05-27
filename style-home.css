@@ -1,68 +1,57 @@
 *{
-margin:o;
-padding:o;
+    margin: 0;
+    padding: 0;
+    
+body {
+	
 }
-bady{
-   backgroud: #CCCCCC;
+
+#banner{
+ width: 100%;
 }
-p{
- text-align:center
- font-size:2opx
+	
+
+.principal{
+	background: #CCCCCC;
+	padding: 30px;
 }
-#missão{
- font-size:30px;
-text - align:center;
+
+.titulo-principal {
+	padding-left: 20px;
 }
+
+.titulo-secundario {
+	text-align: center
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px
+}
+
 em strong {
- color:pink;
- #banner{
-  width:100%;
- }
-.principalbackground
- background:#cccccc;
- padding: 30px;
-h1{
-}
-text-align:center;
-.itens{
- font-style:italic;
-}
- .beneficios {
-  background:#FFFFFF;
-  padding: 20PX;
- }
- H2{
-  TEXT-ALIGN:CENTER;
- }
- il{
-   display:inlane-block;
-  vertical-align: top;
-  width:20%;
-  margin-right:15%;
- }
- .imagem-beneficios{
-  with: 50%
- }
-h1{
- text-align:center;
-}
- .titulo-principal{
-  padding-left:20px;
- }
- .titulo-secundario{
-  text-align:center;
- }
-   table {
-    margin: 20px 0 40px;
+	color: #FF0000;
 }
 
-thead {
-    background: #555555;
-    color: white;
-    font-weight: bold;
+.itens {
+	font-style: italic
 }
 
-td, th {
-    border: 1px solid #000000;
-    padding: 8px 15px;
+.beneficios {
+	background: #FFFFFF;
+	padding: 20px;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+.imagem-beneficios {
+	width: 50%;
 }
