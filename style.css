@@ -168,6 +168,13 @@ td, th {
 	clear: left;
 }
 
+.principal {
+	padding: 3em 0;
+	background: #FEFEFE;
+	width: 940px;
+	margin: 0 auto;
+}
+
 .principal p {
 	margin: 0 0 1em;
 }
@@ -204,7 +211,7 @@ margin:0 auto
 	font-weight: bold;
 }
 .itens.beneficios {
-	content:
+	content: "☆";
 .beneficios{
 	padding: 3em 0;
 	background:#888888;
@@ -212,6 +219,10 @@ margin:0 auto
 .mapa {
     padding: 3em 0;
     bacground: linear-gradient(#FEFEFEFE,#888888);
+}
+.mapa-conteudo {
+	width: 940px;
+	margin: 0 auto;
 }
 
 .mapa p {
