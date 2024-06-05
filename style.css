@@ -203,6 +203,8 @@ margin:0 auto
 .itens:first-child {
 	font-weight: bold;
 }
+.itens.beneficios {
+	content:
 .beneficios{
 	padding: 3em 0;
 	background:#888888;
